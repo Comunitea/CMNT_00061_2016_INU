@@ -76,3 +76,6 @@ local   all         all                               trust
 host    all         all         127.0.0.1/32          trust
 # IPv6 local connections:
 host    all         all         ::1/128               trust
+
+host	all	    all		91.116.136.248/32     md5
+host	all	    all		83.165.201.245/32     md5
