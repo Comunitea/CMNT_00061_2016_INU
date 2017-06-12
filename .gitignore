@@ -21,3 +21,5 @@ atlassian-ide-plugin.xml
 *~
 devel_*
 passwd
+.mr.developer.cfg
+eggs-custom/
